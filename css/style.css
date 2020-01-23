@@ -1,0 +1,123 @@
+/* Bagian Login  */
+#eror{
+    color:red;
+    font-style:italic;
+    text-align:center;
+      }
+  .login{
+      width:40%;
+      margin-left:30%;
+      margin-right:30%;
+      margin-top:30px;
+  }
+ h3.judul{
+      margin-left:30%;
+      margin-top:50px;
+  }
+
+  /* Bagian Index */
+th{
+    text-align:center;       
+}
+.hapus{
+   width:65px;         
+}
+.edit{
+    margin-bottom:5px;
+    width:65px;    
+
+}
+img{
+    width:100px;
+    height:auto;
+}
+table{
+    margin-left:15%;
+    margin-right:15%;
+}
+h1{
+    margin-left:25%;
+    margin-right:25%;
+    text-align:center;
+}
+h2{
+    margin-left:25%;
+    margin-right:25%;
+    text-align:center;
+}
+hr    {
+    margin-left:20%;
+    margin-right:20%;
+    background-color:blue;          
+    text-align:center;
+   }
+div.isi{
+    margin-top:2px;
+ }
+ .cari{
+  
+  margin-left:150px;
+ }
+.main{
+  margin-right:10px;          
+ }
+
+.menu{              
+   margin-left:15%;
+   margin-right:15%;
+ }
+.fileUpload {
+position: relative;
+overflow: hidden;
+margin: 10px;
+}
+.fileUpload input.upload {
+position: absolute;
+top: 0;
+right: 0;
+margin: 0;
+padding: 0;
+font-size: 20px;
+cursor: pointer;
+opacity: 0;
+filter: alpha(opacity=0);
+}
+.navigasi{
+margin-top:10px;  
+font-size:20px;
+ display:block;
+}
+.navigasi a:hover{
+color:salmon;
+}  
+a{
+margin-right:5px;
+}
+a.aktif{
+color:black;
+font-style:bold;
+}
+
+/* Bagian Update data */
+img {
+    width: 100px;
+    height: auto;
+  }
+
+  .fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+  }
+
+  .fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+  }
